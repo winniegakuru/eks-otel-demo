@@ -5,7 +5,7 @@
 Full observability stack on Amazon EKS — custom app metrics queryable via **PromQL**, traces via **X-Ray**, and logs via **CloudWatch Logs**.
 
 **Cluster:** eks-otel-cluster  
-**Region:** us-east-1  
+**Region:** us-east-2  
 **Kubernetes Version:** 1.35  
 **Node Group:** m5.large × 2 (private subnets, AL2023 AMI)
 
